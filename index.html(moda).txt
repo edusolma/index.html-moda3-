@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Moda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenidos a la Página de Moda</h1>
+        
+        <!-- Imagen de la página -->
+        <div class="image-container">
+            <img src="https://via.placeholder.com/600x400" alt="Imagen de moda">
+        </div>
+
+        <!-- Párrafos de contenido -->
+        <p>El mundo de la moda se encuentra en constante evolución. Cada temporada trae consigo nuevas tendencias y estilos que definen la manera en la que nos vestimos y expresamos.</p>
+        <p>Desde colores vibrantes hasta patrones atrevidos, la moda siempre busca innovar y romper barreras. Los diseñadores juegan con texturas y materiales para crear piezas únicas.</p>
+        <p>Las pasarelas se convierten en el escaparate perfecto para mostrar las colecciones más impactantes. Cada desfile cuenta una historia a través de la ropa y los accesorios.</p>
+        <p>Además de las prendas, los complementos juegan un papel fundamental en el look total. Bolsos, zapatos y joyas completan cualquier conjunto de moda.</p>
+        <p>Las marcas más reconocidas buscan destacar no solo por su diseño, sino también por su compromiso con la sostenibilidad y la ética en la producción.</p>
+        <p>El estilo personal es una extensión de quiénes somos. La moda permite expresar nuestra personalidad y adaptarnos a diferentes contextos y ocasiones.</p>
+        <p>Hoy en día, la moda se democratiza gracias a las redes sociales. Influencers y creadores de contenido marcan tendencias y comparten sus looks con audiencias globales.</p>
+        <p>Desde ropa casual hasta atuendos de gala, la moda abarca todos los aspectos de nuestra vida. Elegir qué ponerse se convierte en una forma de comunicar nuestros gustos y emociones.</p>
+        <p>Los colores juegan un papel esencial en la moda. Tonos neutros y sobrios o colores vibrantes y alegres pueden transformar por completo un atuendo.</p>
+        <p>Por último, la moda es un reflejo de la cultura y el contexto social. Nos habla de quiénes somos como sociedad y hacia dónde vamos en términos de estilo y expresión.</p>
+    </div>
+</body>
+</html>
